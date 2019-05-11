@@ -1,0 +1,14 @@
+http://localhost:9030/uaa/oauth/token
+
+
+webApp 123456
+
+
+
+Content-Type application/x-www-form-urlencoded
+Authorization Basic d2ViQXBwOjEyMzQ1Ng==
+
+
+grant_type password
+username admin
+password 123456
